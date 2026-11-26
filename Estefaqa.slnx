@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="Estefaqa.Core/Estefaqa.Core.csproj" />
+    <Project Path="Estefaqa.Infrastructure/Estefaqa.Infrastructure.csproj" />
+    <Project Path="Estefaqa/Estefaqa.csproj" />
+  </Folder>
+</Solution>
